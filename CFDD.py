@@ -39,11 +39,11 @@ def funcao_discriminante_masculino(dentes):
         )
 
 # Interface do usuário
-st.title("CFDD_2005.1")
+st.title("CFDD_2025.1")
 st.write('')
 st.write('Calculadora de Funções Discriminantes Dentárias')
 st.write('Título da Tese: "Determinação do sexo a partir da morfometria geométrica e mensurações em imagens tridimensionais de dentes caninos."')
-st.write('Autores do app: Bento MIC, Biazevic MGH, Michel-Crosato E.')
+st.write('Autores do APP: Bento MIC, Biazevic MGH, Michel-Crosato E.')
 st.write('PRPG - Ciências Odontológicas - FOUSP')
 st.write('')
 
